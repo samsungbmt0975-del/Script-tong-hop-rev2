@@ -68,7 +68,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
   })
  
  AddButton(Tab1o, {
-     Name = "Mod.DZX",
+     Name = "Mod.DZX Hub",
     Callback = function()
 	-- this script created at https://lambloxfruitscript.vercel.app/
       getgenv().ScriptTitle = "Mod.DZX Hub"
